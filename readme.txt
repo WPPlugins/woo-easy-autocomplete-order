@@ -1,0 +1,1 @@
+/Users/allrain/PhpstormProjects/woocommerce-easy-autocomplete-order/readme.txt
